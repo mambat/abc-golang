@@ -22,7 +22,6 @@ func main() {
     if !*n {
         fmt.Println()
     }
-
     // test:
     // ./echo4 a bc def
     // ./echo4 -s / a bc def
